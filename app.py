@@ -22,3 +22,6 @@ ndate = func_module_as.date_now()
 print(ndate)
 
 func_module_as.remain_date()
+
+re_date = func_module_as.remain_date_input()
+print(re_date)
