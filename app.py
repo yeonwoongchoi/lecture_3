@@ -1,4 +1,5 @@
 import func_module
+import func_module_as
 
 #func_module.module_show()
 
@@ -13,3 +14,11 @@ print(xmas)
 
 
 #date_today = '{}년 {}월 {}일'.format(nowdate.year , nowdate.month ,nowdate.day) 이외의 방법은 무수히 많다.
+
+
+
+
+ndate = func_module_as.date_now()
+print(ndate)
+
+func_module_as.remain_date()
