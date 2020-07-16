@@ -1,5 +1,6 @@
 import func_module
 import func_module_as
+import math_module as mm
 
 #func_module.module_show()
 
@@ -23,5 +24,7 @@ print(ndate)
 
 func_module_as.remain_date()
 
-re_date = func_module_as.remain_date_input()
+re_date = func_module_as.remain_date_input()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 print(re_date)
+
+mm.math_pow()
